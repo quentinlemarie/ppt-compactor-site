@@ -1,0 +1,21 @@
+title: PPT Compactor
+description: A native macOS utility that opens a .pptx file and produces a cleaned copy with unused media removed and videos / animated GIFs converted to still frames. Local-only, no network.
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# No analytics. The app collects no data; the marketing site does not either.
+# google_analytics: intentionally unset
+
+# Markdown / build
+markdown: kramdown
+permalink: pretty
+
+# Exclude repository tooling from the published site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
