@@ -46,7 +46,7 @@ Clean oversized .pptx files
 Promotional text:
 
 ```text
-Shrink bulky .pptx files on your Mac by removing unused media and converting embedded video or GIF files to still frames.
+Shrink bulky .pptx files on your Mac by compacting large slide images, removing unused media, and converting embedded video or GIF files to still frames.
 ```
 
 Description:
@@ -82,9 +82,9 @@ Initial Mac release with local .pptx media inspection, unused-media cleanup, vid
 
 URLs:
 
-- Marketing URL: `https://quentinlemarie.github.io/ppt-compactor/`
-- Support URL: `https://quentinlemarie.github.io/ppt-compactor/support/`
-- Privacy URL: `https://quentinlemarie.github.io/ppt-compactor/privacy/`
+- Marketing URL: `https://quentinlemarie.github.io/ppt-compactor-site/`
+- Support URL: `https://quentinlemarie.github.io/ppt-compactor-site/support/`
+- Privacy URL: `https://quentinlemarie.github.io/ppt-compactor-site/privacy/`
 
 Copyright:
 
