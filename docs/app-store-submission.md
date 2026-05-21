@@ -46,7 +46,7 @@ Clean oversized .pptx files
 Promotional text:
 
 ```text
-Shrink bulky .pptx files on your Mac by compacting large slide images, removing unused media, and converting embedded video or GIF files to still frames.
+Shrink bulky .pptx files on your Mac by compacting large slide images, removing unused media, and freezing videos or GIFs.
 ```
 
 Description:
@@ -54,10 +54,11 @@ Description:
 ```text
 PPT Compactor helps shrink oversized .pptx files before you send, upload, or archive them.
 
-Open a .pptx file, review every embedded media item, and save a cleaned copy. The app highlights unused media, shows file sizes, and identifies where media is used in the deck, including whether an item is inside or outside the visible slide boundary.
+Open a .pptx file, review every embedded media item, compact large used slide images, and save a cleaned copy. The app highlights unused media, shows file sizes, and identifies where media is used in the deck, including whether an item is inside or outside the visible slide boundary.
 
 What it can do:
 
+- compact large used slide images
 - remove unused embedded media
 - convert embedded videos to still frames
 - convert animated GIFs to still PNG images
